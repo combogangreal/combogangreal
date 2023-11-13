@@ -35,3 +35,4 @@ Im ComboGang, A self-taught fullstack developer working on commonisions or just 
 
 # Stats
 ![Combo Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=combogangreal&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combogangreal&langs_count=8)
